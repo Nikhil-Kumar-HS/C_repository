@@ -1,0 +1,5 @@
+This is just a practice on Github how to work on it
+
+
+
+This a repository created to store C files
